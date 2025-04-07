@@ -62,4 +62,3 @@ Feel free to fork and enhance with API calls, storage (AsyncStorage), Redux/Zust
 ## 📝 License
 
 MIT — use it, modify it, and build something great.
-```
